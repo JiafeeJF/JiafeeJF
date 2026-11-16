@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">JIAFEE</title>
+  <desc id="desc">Open-source music tools for Mineradio and Folia</desc>
+  <rect width="1200" height="260" rx="12" fill="#f6f8fa"/>
+  <path d="M0 214H1200" stroke="#d0d7de"/>
+  <circle cx="70" cy="70" r="8" fill="#e85d3a"/>
+  <circle cx="1130" cy="70" r="8" fill="#0969da"/>
+  <path d="M78 70H250L278 42L314 102L348 70H852L884 98L920 38L950 70H1122" fill="none" stroke="#57606a" stroke-width="2"/>
+  <path d="M250 70L278 42L314 102L348 70" fill="none" stroke="#e85d3a" stroke-width="4"/>
+  <path d="M852 70L884 98L920 38L950 70" fill="none" stroke="#0969da" stroke-width="4"/>
+  <text x="70" y="158" fill="#1f2328" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="54" font-weight="700">JIAFEE</text>
+  <text x="70" y="192" fill="#57606a" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="19">Open-source music tools · real-time listening · AI-assisted engineering</text>
+  <text x="1130" y="158" text-anchor="end" fill="#1f2328" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="20" font-weight="600">MINERADIO × FOLIA</text>
+  <text x="1130" y="190" text-anchor="end" fill="#57606a" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="15">ELECTRON · NODE.JS · TCP/WEBSOCKET</text>
+  <rect x="70" y="227" width="1060" height="3" rx="1.5" fill="#d0d7de"/>
+  <rect x="70" y="227" width="390" height="3" rx="1.5" fill="#e85d3a"/>
+</svg>
+
