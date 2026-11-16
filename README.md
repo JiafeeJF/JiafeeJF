@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
     <img width="100%" alt="JIAFEE — 为 Mineradio 与 Folia 构建开源音乐工具" src="./assets/header-light.svg">
@@ -35,13 +37,6 @@
   </tr>
 </table>
 
-## 工程方向
-
-- **播放器适配**：在不侵入宿主私有状态的前提下连接不同播放器能力。
-- **实时同步**：处理播放事务、队列一致性、重连、去重和权威状态。
-- **桌面工具**：为补丁安装、中转服务和运行诊断提供可视化操作入口。
-- **AI 协作开发**：让 AI 参与实现，但保留源码审查、自动测试与真实设备验收。
-
 ## 常用技术
 
 <p>
@@ -57,12 +52,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JiafeeJF&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ff7b54&amp;text_color=c9d1d9&amp;icon_color=58a6ff">
-    <img width="49%" alt="JiafeeJF GitHub 统计" src="https://github-readme-stats.vercel.app/api?username=JiafeeJF&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=cf4b2e&amp;text_color=24292f&amp;icon_color=0969da">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JiafeeJF&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=ff7b54&amp;text_color=c9d1d9">
-    <img width="42%" alt="JiafeeJF 常用语言" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiafeeJF&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=cf4b2e&amp;text_color=24292f">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/output/github-stats-dark.svg">
+    <img width="100%" alt="JiafeeJF GitHub 公开数据" src="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/output/github-stats.svg">
   </picture>
 </p>
 

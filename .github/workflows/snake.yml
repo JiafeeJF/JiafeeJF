@@ -17,6 +17,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout profile source
+        uses: actions/checkout@v4
+
+      - name: Generate public GitHub stats
+        run: node scripts/generate-stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,6 +37,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

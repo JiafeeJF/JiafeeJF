@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+  <title id="title">JIAFEE</title>
+  <desc id="desc">JIAFEE independent open-source developer</desc>
+  <rect width="640" height="300" rx="12" fill="#0d1117"/>
+  <circle cx="48" cy="60" r="8" fill="#ff7b54"/>
+  <circle cx="592" cy="60" r="8" fill="#58a6ff"/>
+  <path d="M56 60H190L218 34L254 90L286 60H354L386 88L422 32L454 60H584" fill="none" stroke="#8b949e" stroke-width="2"/>
+  <path d="M190 60L218 34L254 90L286 60" fill="none" stroke="#ff7b54" stroke-width="4"/>
+  <path d="M354 60L386 88L422 32L454 60" fill="none" stroke="#58a6ff" stroke-width="4"/>
+  <text x="48" y="166" fill="#f0f6fc" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="64" font-weight="700">JIAFEE</text>
+  <text x="48" y="210" fill="#8b949e" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="23">独立开发 · 开源创作 · AI 协作工程</text>
+  <text x="48" y="254" fill="#f0f6fc" font-family="Segoe UI, Microsoft YaHei UI, sans-serif" font-size="18" font-weight="600">MAKE · TEST · RELEASE</text>
+  <rect x="48" y="274" width="544" height="3" rx="1.5" fill="#30363d"/>
+  <rect x="48" y="274" width="218" height="3" rx="1.5" fill="#ff7b54"/>
+</svg>
+
