@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/header-mobile-dark.svg">
-    <source media="(max-width: 600px)" srcset="./assets/header-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-    <img width="100%" alt="JIAFEE — 为 Mineradio 与 Folia 构建开源音乐工具" src="./assets/header-light.svg">
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/main/assets/header-mobile-dark.svg?v=2">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/main/assets/header-mobile-light.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/main/assets/header-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/main/assets/header-light.svg?v=2">
+    <img width="100%" alt="JIAFEE 独立开发者个人主页" src="https://raw.githubusercontent.com/JiafeeJF/JiafeeJF/main/assets/header-light.svg?v=2">
   </picture>
 </p>
 
