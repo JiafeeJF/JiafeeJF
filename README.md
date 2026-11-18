@@ -39,14 +39,32 @@
 
 ## 常用技术
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E">
-  <img alt="Electron" src="https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-20232A?style=flat-square&logo=css&logoColor=663399">
-  <img alt="Git" src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032">
-</p>
+### Tech Stack
+
+\<!-- Languages & Runtime -->
+
+\<p>   \<img alt="JavaScript" src="[https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/JavaScript-20232A?style=flat-square\&logo=javascript\&logoColor=F7DF1E)">   \<img alt="Java" src="[https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00](https://img.shields.io/badge/Java-20232A?style=flat-square\&logo=openjdk\&logoColor=ED8B00)">   \<img alt="Python" src="[https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB](https://img.shields.io/badge/Python-20232A?style=flat-square\&logo=python\&logoColor=3776AB)">   \<img alt="Node.js" src="[https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=5FA04E](https://img.shields.io/badge/Node.js-20232A?style=flat-square\&logo=node.js\&logoColor=5FA04E)"> \</p>
+
+\<!-- Frontend -->
+
+\<p>   \<img alt="HTML5" src="[https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26](https://img.shields.io/badge/HTML5-20232A?style=flat-square\&logo=html5\&logoColor=E34F26)">   \<img alt="CSS3" src="[https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css&logoColor=663399](https://img.shields.io/badge/CSS3-20232A?style=flat-square\&logo=css\&logoColor=663399)">   \<img alt="React" src="[https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)">   \<img alt="Vite" src="[https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF](https://img.shields.io/badge/Vite-20232A?style=flat-square\&logo=vite\&logoColor=646CFF)">   \<img alt="Tailwind CSS" src="[https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square&logo=tailwindcss&logoColor=06B6D4](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat-square\&logo=tailwindcss\&logoColor=06B6D4)">   \<img alt="Framer Motion" src="[https://img.shields.io/badge/Framer_Motion-20232A?style=flat-square&logo=framer&logoColor=0055FF](https://img.shields.io/badge/Framer_Motion-20232A?style=flat-square\&logo=framer\&logoColor=0055FF)"> \</p>
+
+\<!-- Backend & Database -->
+
+\<p>   \<img alt="Express" src="[https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=FFFFFF](https://img.shields.io/badge/Express-20232A?style=flat-square\&logo=express\&logoColor=FFFFFF)">   \<img alt="MongoDB" src="[https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248](https://img.shields.io/badge/MongoDB-20232A?style=flat-square\&logo=mongodb\&logoColor=47A248)">   \<img alt="Socket.IO" src="[https://img.shields.io/badge/Socket.IO-20232A?style=flat-square&logo=socket.io&logoColor=FFFFFF](https://img.shields.io/badge/Socket.IO-20232A?style=flat-square\&logo=socket.io\&logoColor=FFFFFF)">   \<img alt="WebSocket" src="[https://img.shields.io/badge/WebSocket-20232A?style=flat-square&logo=websocket&logoColor=FFFFFF](https://img.shields.io/badge/WebSocket-20232A?style=flat-square\&logo=websocket\&logoColor=FFFFFF)">   \<img alt="REST API" src="[https://img.shields.io/badge/REST_API-20232A?style=flat-square&logo=fastapi&logoColor=009688](https://img.shields.io/badge/REST_API-20232A?style=flat-square\&logo=fastapi\&logoColor=009688)"> \</p>
+
+\<!-- Desktop & Cross Platform -->
+
+\<p>   \<img alt="Electron" src="[https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9](https://img.shields.io/badge/Electron-20232A?style=flat-square\&logo=electron\&logoColor=9FEAF9)"> \</p>
+
+\<!-- Minecraft Modding -->
+
+\<p>   \<img alt="Minecraft" src="[https://img.shields.io/badge/Minecraft-20232A?style=flat-square&logo=minecraft&logoColor=62B47A](https://img.shields.io/badge/Minecraft-20232A?style=flat-square\&logo=minecraft\&logoColor=62B47A)">   \<img alt="Minecraft Forge" src="[https://img.shields.io/badge/Forge-20232A?style=flat-square&logo=curseforge&logoColor=F16436](https://img.shields.io/badge/Forge-20232A?style=flat-square\&logo=curseforge\&logoColor=F16436)">   \<img alt="Fabric" src="[https://img.shields.io/badge/Fabric-20232A?style=flat-square&logo=fabric&logoColor=FFFFFF](https://img.shields.io/badge/Fabric-20232A?style=flat-square\&logo=fabric\&logoColor=FFFFFF)"> \</p>
+
+\<!-- Tools -->
+
+\<p>   \<img alt="Git" src="[https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032](https://img.shields.io/badge/Git-20232A?style=flat-square\&logo=git\&logoColor=F05032)">   \<img alt="GitHub" src="[https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF](https://img.shields.io/badge/GitHub-20232A?style=flat-square\&logo=github\&logoColor=FFFFFF)"> \</p>
+
 
 ## GitHub 数据
 
