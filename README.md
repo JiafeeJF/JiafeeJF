@@ -62,6 +62,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624">
   <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white">
+  <img alt="IoT" src="https://img.shields.io/badge/IoT-Internet%20of%20Things-00A98F?style=flat-square&logo=internetofthings&logoColor=white">
 </p>
 
 
