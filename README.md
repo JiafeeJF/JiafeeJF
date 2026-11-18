@@ -61,7 +61,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624">
-  <img alt="Fluent Design" src="https://img.shields.io/badge/Fluent%20Design-5C2D91?style=flat-square&logo=windows&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white">
 </p>
 
 
