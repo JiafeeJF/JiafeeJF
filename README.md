@@ -55,7 +55,6 @@
   <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-20232A?style=flat-square&logo=socket.io&logoColor=FFFFFF">
   <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-20232A?style=flat-square&logo=websocket&logoColor=FFFFFF">
   <img alt="Electron" src="https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9">
-  <img alt="Minecraft" src="https://img.shields.io/badge/Minecraft-20232A?style=flat-square&logo=minecraft&logoColor=62B47A">
   <img alt="Forge" src="https://img.shields.io/badge/Forge-20232A?style=flat-square&logo=curseforge&logoColor=F16436">
   <img alt="Fabric" src="https://img.shields.io/badge/Fabric-20232A?style=flat-square&logo=fabric&logoColor=FFFFFF">
   <img alt="Git" src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032">
