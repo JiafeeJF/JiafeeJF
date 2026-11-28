@@ -57,7 +57,6 @@
   <img alt="Electron" src="https://img.shields.io/badge/Electron-20232A?style=flat-square&logo=electron&logoColor=9FEAF9">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
   <img alt="Forge" src="https://img.shields.io/badge/Forge-20232A?style=flat-square&logo=curseforge&logoColor=F16436">
-  <img alt="Fabric" src="https://img.shields.io/badge/Fabric-20232A?style=flat-square&logo=fabric&logoColor=FFFFFF">
   <img alt="Git" src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=FFFFFF">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED">
