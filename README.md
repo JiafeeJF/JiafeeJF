@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## 常用技术
+## 正在使用/学习的技术
 
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E">
