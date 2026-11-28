@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="310" viewBox="0 0 800 310" role="img" aria-labelledby="title desc">
+    <title id="title">JiafeeJF public GitHub stats</title>
+    <desc id="desc">Public repositories, stars, pull requests, yearly contributions, and primary repository languages.</desc>
+    <rect x="1" y="1" width="798" height="308" rx="10" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="52" cy="50" r="7" fill="#ff7b54"/>
+    <text x="72" y="58" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700">JiafeeJF / PUBLIC ACTIVITY</text>
+    <text x="748" y="56" text-anchor="end" fill="#58a6ff" font-family="Segoe UI, sans-serif" font-size="13">AUTO UPDATED</text>
+    <path d="M52 82H748" stroke="#30363d"/>
+    
+      <text x="52" y="132" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="36" font-weight="700">7</text>
+      <text x="52" y="160" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">PUBLIC REPOS</text>
+      <text x="238" y="132" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="36" font-weight="700">18</text>
+      <text x="238" y="160" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">STARS EARNED</text>
+      <text x="424" y="132" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="36" font-weight="700">0</text>
+      <text x="424" y="160" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">PULL REQUESTS</text>
+      <text x="610" y="132" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="36" font-weight="700">77</text>
+      <text x="610" y="160" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">CONTRIBUTIONS</text>
+    <text x="52" y="204" fill="#f0f6fc" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600">PRIMARY REPOSITORY LANGUAGES</text>
+    <rect x="52" y="220" width="580" height="8" rx="4" fill="#f1e05a"/><rect x="636" y="220" width="116" height="8" rx="4" fill="#663399"/>
+    <circle cx="57" cy="266" r="5" fill="#f1e05a"/><text x="70" y="271" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">JavaScript · 5</text><circle cx="237" cy="266" r="5" fill="#663399"/><text x="250" y="271" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="13">CSS · 1</text>
+    <text x="748" y="291" text-anchor="end" fill="#8b949e" font-family="Segoe UI, sans-serif" font-size="12">Forks on owned repositories: 1 · Issues opened: 9</text>
+  </svg>
